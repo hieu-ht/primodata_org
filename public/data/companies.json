@@ -536,14 +536,14 @@
     "name": "Birdeye",
     "website": "https://birdeye.so/",
     "twitter": "https://twitter.com/birdeye_so",
-    "logo": "https://pbs.twimg.com/profile_images/1751807985813471232/SAJwgtXy_400x400.jpg",
-    "category": "Market Data",
+    "logo": "https://raw.githubusercontent.com/birdeye-so/birdeye-ads/main/logo/Birdeye%20Logo_Black%20logomark%20w%20padding%20600x600.png",
+    "category": "Market Data; Onchain Data",
     "description": "The crypto trading data aggregator that helps you make better trades onchain.",
     "sponsor": "",
-    "products": "",
+    "products": "API; WebSocket; Cross-chain swap; Dashboards; Alerts; Excel Exports; Watchlist",
     "slug": "birdeye",
     "docs": "",
-    "chains": ""
+    "chains": "Solana; Sui; Ethereum; BNB; Arbitrum One; Optimism; Base; zkSync Era; Polygon; Avalanche"
   },
   {
     "id": 12819,
@@ -1792,7 +1792,7 @@
     "chains": ""
   },
   {
-     "id": 13021,
+    "id": 13021,
     "name": "Dune",
     "website": "https://dune.com/home",
     "twitter": "https://twitter.com/DuneAnalytics",
